@@ -31,7 +31,7 @@ Ironically, one of the things I look forward to most is finding problems. Every 
 
 # GitHub Stats & Activity
 
-<div style="text-align:center">
+<div align="center">
 <a href="https://github.com/Imaginatorix" id="topLang" style="margin: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginatorix&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Imaginatorix's top languages" height="192px"/></a>
 
 <p style="font-style: italic; font-size: 0.6rem">
