@@ -31,12 +31,16 @@ Ironically, one of the things I look forward to most is finding problems. Every 
 
 # GitHub Stats & Activity
 
-<a href="https://github.com/Imaginatorix" id="topLang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginatorix&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Imaginatorix's top languages" height="192px"/></a>
+<div style="text-align:center">
+<a href="https://github.com/Imaginatorix" id="topLang" style="margin: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginatorix&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Imaginatorix's top languages" height="192px"/></a>
 
+<p style="font-style: italic; font-size: 0.6rem">
 <b>Note:</b> These metrics only consider the public repositories and does not necessarily reflect my expertise.
+</p>
+</div>
 
 <p align="center">
-  <a href="https://idearium.eitjumawan-dev.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/website-060C13?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
+  <a href="https://idearium.eitjumawan-dev.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/website-AC9EEA?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/edward-isaac-jumawan-03b697247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://idearium.eitjumawan-dev.workers.dev/contact/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://idearium.eitjumawan-dev.workers.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
