@@ -22,14 +22,14 @@ Ever since then, I've been fascinated by the endless possibilities of technology
 
 Ironically, one of the things I look forward to most is finding problems. Every challenge is an opportunity to learn something new, build something useful, or rethink an old assumption. I enjoy breaking down complex issues and searching for solutions, but I also find just as much satisfaction in seeing how other people solve them. Whether I'm creating my own projects or learning from others, that process of turning obstacles into opportunities is what drives me to continue learning and growing as a problem-solver.
 
-# About Me
+## 👨‍💻 About Me
 - 🏫 BS Computer Science at University of the Philippines Diliman
 - 🔎 Interested in Complex Systems
 - 🌱 Learning about DSA and Data Science
 - 🧬 Interested in Psychological Thriller movies and anime
 - ⚡ I love animals and Pokémon
 
-# GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 <a href="https://github.com/Imaginatorix" id="topLang" style="margin: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginatorix&langs_count=8&layout=compact&theme=react&hide_border=true" alt="Imaginatorix's top languages" height="192px"/></a>
@@ -38,6 +38,10 @@ Ironically, one of the things I look forward to most is finding problems. Every 
 <b>Note:</b> These metrics only consider the public repositories and does not necessarily reflect my expertise.
 </p>
 </div>
+
+## 📓 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <a href="https://idearium.eitjumawan-dev.workers.dev/" target="_blank"><img src="https://img.shields.io/badge/website-AC9EEA?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
