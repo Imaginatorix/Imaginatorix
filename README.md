@@ -43,8 +43,6 @@ Ironically, one of the things I look forward to most is finding problems. Every 
 <!-- BLOG-POST-LIST:START -->
 - [Uploaded via PagesCMS!](https://idearium.eitjumawan-dev.workers.dev/blog/post/uploaded-via-pages-cms/)
 - [Title of the Post](https://idearium.eitjumawan-dev.workers.dev/blog/post/eyy/)
-- [Title of the Post](https://idearium.eitjumawan-dev.workers.dev/blog/post/eyy1/)
-- [Title of the Post](https://idearium.eitjumawan-dev.workers.dev/blog/post/eyy2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
